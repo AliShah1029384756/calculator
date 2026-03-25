@@ -4,7 +4,7 @@
 ![Stack](https://img.shields.io/badge/Stack-HTML%20CSS%20JavaScript-16a34a)
 
 ## 🎨 Live Demo
-Open [`index.html`](index.html) in your browser to use the calculator.
+Open [Live Demo](https://htmlpreview.github.io/?https://github.com/AliShah1029384756/calculator/blob/main/index.html) in your browser to use the calculator.
 
 ## Overview
 Clean calculator project built with vanilla JavaScript to practice DOM control and event handling.
